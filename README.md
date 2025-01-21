@@ -11,19 +11,17 @@ Hi ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <br/>
 
 ### Socials
-
 <div id="badges">
-  <a href="https://www.linkedin.com/in/muhammad-zuhaab/">
+  <a href="https://www.linkedin.com/in/muhammadzuhaab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
 ### Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadzuhaab&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadzuhaab" /> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadzuhaab&show_icons=true&locale=en&layout=compact&theme=dark" alt="muhammadzuhaab" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadzuhaab&show_icons=true&locale=en&theme=dark" alt="muhammadzuhaab" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=muhammadzuhaab&theme=dark" alt="muhammadzuhaab" /></p>
 
 ### GitHub Profile Trophies
 
-<p align="left"> <a href="https://yourwebsite.com"><img src="https://github-profile-trophy.vercel.app/?username=muhammadzuhaab&theme=algolia" alt="muhammadzuhaab" /></a> </p>
+<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=muhammadzuhaab&theme=algolia" alt="muhammadzuhaab" /></a> </p>
