@@ -5,9 +5,9 @@ Hi ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 <br/>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,express) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=laravel,php)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,ts,mysql,mongodb)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,express)
+![My Skills](https://skillicons.dev/icons?i=laravel,php)
+![My Skills](https://skillicons.dev/icons?i=js,ts,mysql,mongodb)
 <br/>
 
 ### Socials
