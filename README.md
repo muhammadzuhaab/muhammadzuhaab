@@ -1,14 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Zuhaab
+Hi ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Zuhaab
 ====================================================================================================================================
 
 🌍  I am a full-stack Developer with expertise in JavaScript and its frameworks, along with PHP development. I have strong skills in modern frameworks like Next.js, NestJS, React.js, Laravel, and Express.js.
 <br/>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,express)](https://yourwebsite.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,wordpress)](https://yourwebsite.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,ts,mysql,mongodb)](https://yourwebsite.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark)](https://yourwebsite.com)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,express) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=laravel,php)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js,ts,mysql,mongodb)] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 
 ### Socials
