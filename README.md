@@ -1,7 +1,7 @@
 Hi ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Zuhaab
 ====================================================================================================================================
 
-🌍  I am a full-stack Developer with expertise in JavaScript and its frameworks, along with PHP development. I have strong skills in modern frameworks like Next.js, NestJS, React.js, Laravel, and Express.js.
+I am a full-stack Developer with expertise in JavaScript and its frameworks, along with PHP development. I have strong skills in modern frameworks like Next.js, NestJS, React.js, Laravel, and Express.js.
 <br/>
 
 ### Skills
